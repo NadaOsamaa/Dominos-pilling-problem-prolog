@@ -14,7 +14,9 @@
 % solve(3, 3, (1,3), (2,1), Dominos),
 % maplist(writeln, Dominos),
 % told.
+
 % ==========================================================================
+
 % The code:
 % Check if the cell is valid and empty
 valid_cell(Board, X, Y) :-
